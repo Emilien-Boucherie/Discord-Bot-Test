@@ -1,5 +1,6 @@
 const { SlashCommandBuilder } = require('@discordjs/builders');
 
+// simple command for testing response with information about user using command.
 module.exports = {
     data: new SlashCommandBuilder()
         .setName('user')

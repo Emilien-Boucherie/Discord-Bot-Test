@@ -1,0 +1,6 @@
+{
+    "token": "your-bot-token",
+    "clientId": "clientId-from-your-bot",
+    "guildId": "guildId-from-your-server",
+    "giphyAPI": "your-api-giphy-key"
+}
